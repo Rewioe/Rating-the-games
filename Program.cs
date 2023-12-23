@@ -7,7 +7,7 @@ class Program
         try
         {
             int Game_num;
-            Console.Write("Enter Game num :");
+            Console.Write("Enter game's count:");
             Game_num = int.Parse(Console.ReadLine());
             Dictionary<string, int> Games_name = new Dictionary<string, int>();
             int j = 0;

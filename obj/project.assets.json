@@ -8,24 +8,26 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Arshiya\\.nuget\\packages\\": {}
+    "C:\\Users\\novin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programming\\Rating-the-games\\Rating-the-games.csproj",
+      "projectUniqueName": "C:\\Projects\\Rating-the-games\\Rating-the-games.csproj",
       "projectName": "Rating-the-games",
-      "projectPath": "E:\\Programming\\Rating-the-games\\Rating-the-games.csproj",
-      "packagesPath": "C:\\Users\\Arshiya\\.nuget\\packages\\",
-      "outputPath": "E:\\Programming\\Rating-the-games\\obj\\",
+      "projectPath": "C:\\Projects\\Rating-the-games\\Rating-the-games.csproj",
+      "packagesPath": "C:\\Users\\novin\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\Rating-the-games\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Arshiya\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\novin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
